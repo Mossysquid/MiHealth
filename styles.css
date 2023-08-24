@@ -75,7 +75,7 @@ margin-bottom: 40px;
 line-height: 25px;
 }
 
-.images {
+.images-countainer {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
